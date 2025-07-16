@@ -8,8 +8,6 @@
 <body>
     <img src="1.png.jpg" alt="">
     <img src="2.png.jpg" alt="">
-    <img src="3.png.jpg" alt="">
-    <img src="4.png.jpg" alt="">
     <img src="5.png.jpg" alt="">
     <img src="6.png.jpg" alt="">
     <img src="7.png.jpg" alt="">
